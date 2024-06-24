@@ -33,3 +33,6 @@ npm install
 ```bash
 npm run dev
 ```
+
+### Deployment
+The app is deployed on Vercel. You can access it here: [Guess The Weather App](https://guess-the-weather-amber.vercel.app/)
